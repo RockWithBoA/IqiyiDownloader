@@ -1,0 +1,8 @@
+# Ignore files in the sub folders of the folders in solution root directory.
+*/*/
+# Except Properties folder.
+!*/Properties/
+
+# Ignore these kind of files.
+*.suo
+*.orig
